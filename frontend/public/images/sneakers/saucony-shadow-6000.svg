@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Saucony Shadow 6000">
+  <rect width="900" height="900" fill="#e0e7ff"/>
+  <text x="56" y="112" fill="#312e81" font-family="Arial,sans-serif" font-size="50" font-weight="700">SAUCONY SHADOW 6000</text>
+  <g transform="translate(80,300)">
+    <rect x="0" y="110" width="740" height="128" rx="56" fill="#1e1b4b" stroke="#312e81" stroke-width="8"/>
+    <rect x="120" y="70" width="300" height="100" rx="45" fill="#4338ca" stroke="#312e81" stroke-width="8"/>
+    <path d="M170 164 C230 124,320 124,390 164" stroke="#c7d2fe" stroke-width="9" fill="none"/>
+    <circle cx="620" cy="206" r="44" fill="#818cf8" stroke="#312e81" stroke-width="8"/>
+  </g>
+</svg>

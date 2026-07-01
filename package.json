@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.5.0",
+    "git": "^0.1.5",
+    "postcss": "^8.5.14",
+    "seeder": "^0.2.4",
+    "tailwindcss": "^4.3.0"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  },
+  "scripts": {
+    "server": "npm --prefix backend run dev",
+    "client": "npm --prefix frontend run dev",
+    "tunnel": "cloudflared tunnel --url http://localhost:5173 --no-autoupdate",
+    "dev": "node scripts/start-all.mjs"
+  }
+}

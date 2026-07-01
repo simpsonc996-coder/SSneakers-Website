@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ssneakers-red: #ea2e0e;
+}
+
+#root {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}

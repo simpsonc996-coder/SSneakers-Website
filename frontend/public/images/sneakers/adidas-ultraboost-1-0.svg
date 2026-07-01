@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Adidas UltraBoost 1.0">
+  <rect width="900" height="900" fill="#e2e8f0"/>
+  <text x="60" y="120" fill="#0f172a" font-family="Arial, sans-serif" font-size="54" font-weight="700">ADIDAS ULTRABOOST 1.0</text>
+  <text x="60" y="180" fill="#334155" font-family="Arial, sans-serif" font-size="30">Popular Sneaker Collection</text>
+  <g transform="translate(80,290)">
+    <rect x="0" y="120" width="740" height="120" rx="55" fill="#0f172a" stroke="#0f172a" stroke-width="8"/>
+    <rect x="120" y="80" width="280" height="95" rx="45" fill="#ffffff" stroke="#0f172a" stroke-width="8"/>
+    <path d="M210 90 L330 90" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="620" cy="210" r="44" fill="#ffffff" stroke="#0f172a" stroke-width="8"/>
+  </g>
+</svg>

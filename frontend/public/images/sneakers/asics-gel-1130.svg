@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Asics GEL 1130">
+  <rect width="900" height="900" fill="#e0f2fe"/>
+  <text x="60" y="120" fill="#0c4a6e" font-family="Arial, sans-serif" font-size="54" font-weight="700">ASICS GEL 1130</text>
+  <text x="60" y="180" fill="#075985" font-family="Arial, sans-serif" font-size="30">Popular Sneaker Collection</text>
+  <g transform="translate(80,290)">
+    <rect x="0" y="120" width="740" height="120" rx="55" fill="#f8fafc" stroke="#0c4a6e" stroke-width="8"/>
+    <rect x="120" y="80" width="280" height="95" rx="45" fill="#bae6fd" stroke="#0c4a6e" stroke-width="8"/>
+    <path d="M180 160 C220 110, 320 110, 360 160" stroke="#0c4a6e" stroke-width="8" fill="none"/>
+    <circle cx="620" cy="210" r="44" fill="#60a5fa" stroke="#0c4a6e" stroke-width="8"/>
+  </g>
+</svg>

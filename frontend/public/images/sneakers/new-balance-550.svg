@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="New Balance 550">
+  <rect width="900" height="900" fill="#dcfce7"/>
+  <text x="60" y="120" fill="#14532d" font-family="Arial, sans-serif" font-size="54" font-weight="700">NEW BALANCE 550</text>
+  <text x="60" y="180" fill="#166534" font-family="Arial, sans-serif" font-size="30">Popular Sneaker Collection</text>
+  <g transform="translate(80,290)">
+    <rect x="0" y="120" width="740" height="120" rx="55" fill="#ffffff" stroke="#14532d" stroke-width="8"/>
+    <rect x="120" y="80" width="280" height="95" rx="45" fill="#f0fdf4" stroke="#14532d" stroke-width="8"/>
+    <text x="250" y="155" fill="#14532d" font-family="Arial, sans-serif" font-size="52" font-weight="700">N</text>
+    <circle cx="620" cy="210" r="44" fill="#22c55e" stroke="#14532d" stroke-width="8"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Adidas Yeezy Boost 350 V2">
+  <rect width="900" height="900" fill="#fafaf9"/>
+  <text x="60" y="120" fill="#292524" font-family="Arial, sans-serif" font-size="54" font-weight="700">ADIDAS YEEZY BOOST 350 V2</text>
+  <text x="60" y="180" fill="#57534e" font-family="Arial, sans-serif" font-size="30">Popular Sneaker Collection</text>
+  <g transform="translate(80,290)">
+    <rect x="0" y="120" width="740" height="120" rx="55" fill="#57534e" stroke="#292524" stroke-width="8"/>
+    <rect x="120" y="80" width="280" height="95" rx="45" fill="#a8a29e" stroke="#292524" stroke-width="8"/>
+    <path d="M130 165 C230 120, 330 120, 430 165" stroke="#ef4444" stroke-width="8" fill="none"/>
+    <circle cx="620" cy="210" r="44" fill="#44403c" stroke="#292524" stroke-width="8"/>
+  </g>
+</svg>
